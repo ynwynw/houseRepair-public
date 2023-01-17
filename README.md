@@ -1,6 +1,5 @@
 **需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
 
-#公廉租房维保系统 #java web #java #毕业设计 #课程设计 #mybatis #ssm #vue #mysql #源代码
 
 ## 基于ssm+vue的公廉租房维保系统(源代码+数据库+10000字文档)
 
