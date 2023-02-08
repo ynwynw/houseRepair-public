@@ -1,7 +1,12 @@
 **需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
 
+**博客地址：[https://blog.csdn.net/2303_76227485/article/details/128709891](https://blog.csdn.net/2303_76227485/article/details/128709891)**
 
-## 基于ssm+vue的公廉租房维保系统(源代码+数据库+10000字文档)
+**视频演示：[https://space.bilibili.com/384537280](https://space.bilibili.com/384537280)**
+
+**毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+
+## 基于ssm+vue的公廉租房维保系统(源代码+数据库+10000字论文)
 
 ## 一、系统介绍
 本项目分为管理员、普通用户、维修单位三种角色
