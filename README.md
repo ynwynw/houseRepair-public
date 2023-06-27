@@ -1,8 +1,10 @@
-**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
+**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
+
+**接毕业设计和论文**
 
 **博客地址：[https://blog.csdn.net/2303_76227485/article/details/128709891](https://blog.csdn.net/2303_76227485/article/details/128709891)**
 
-**视频演示：[https://space.bilibili.com/384537280](https://space.bilibili.com/384537280)**
+**视频演示：[https://www.bilibili.com/video/BV15R4y127dN/](https://www.bilibili.com/video/BV15R4y127dN/)**
 
 **毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
@@ -113,13 +115,11 @@
 5. vscode打开admin路径下的vue项目，
 
 6. 打开终端，执行npm install 依赖下载完成后执行 npm run dev,执行成功后会显示访问地址
-
    
 
-**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
+**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
 
-**需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
-
+**接毕业设计和论文**
 
 
 
